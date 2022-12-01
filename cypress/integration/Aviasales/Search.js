@@ -9,4 +9,5 @@ describe('Проверка формы поиска', function () {
         cy.get('.avia-form__submit > .button_70e8ad4').click()
 
      })
+     
  })
