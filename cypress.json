@@ -1,4 +1,5 @@
 {
+  "watchForfileChanges":false,
   "viewportWidth": 1728,
   "viewportHeight": 918
 }
